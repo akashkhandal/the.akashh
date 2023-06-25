@@ -530,6 +530,22 @@ section .title::after {
   width: 70%;
 }
 
+
+.skills-content .right .angular::before {
+  width: 40%;
+}
+
+
+.skills-content .right .ionic::before {
+  width: 30%;
+}
+
+
+
+
+.skills-content .right .nodejs::before {
+  width: 50%;
+}
 /* --x--------------------------- Skills ---------------------------x-- */
 
 /* ------------------------------ Projects ------------------------------ */
